@@ -1,4 +1,4 @@
-### Eat at Home
+# Eat at Home
 
 You have decided to eat at home. How will you get your food?
 
