@@ -4,4 +4,4 @@ You wake up to a notification from Mcdonalds notifying you about their latest of
 
 [Yes, head to McDonalds](mcdonalds/eat-at-mcdonalds.md)
 
-[No, let's make food from home](home/eat-at-home.md)
+[No, let's make food from home](home/home.md)
