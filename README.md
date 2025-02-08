@@ -4,7 +4,7 @@
 
 The purpose of creating this repository was to practice our collaboration and linking skills.
 
-Click [here](notification.md) to begin.
+Click [here](https://joleel3389.github.io/sep10-mcdonalds-cyoa-project/notification.html) to begin.
 
 Click [here](https://docs.google.com/drawings/d/108eMNBPaFeLahpnO7j2PqBGV_tvfDtKfWMb8lhPUiTc/edit) to view the diagram for this CYOA.
 
