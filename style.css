@@ -39,6 +39,7 @@ body {
     gap: 0px;
     margin: auto;
     width: 80%;
+    padding-top: 7px;
 }
 .linked-text {
     font-size: 22px;
