@@ -4,3 +4,51 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
 }
+.popup {
+    background-color: white;
+    border-size: 6px;
+    border-color: white;
+    border-style: solid;
+    border-radius: 15px;
+    padding: 20px;
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    position: absolute;
+    top: 35%;
+    left: 25%;
+}
+.title-text {
+    font-size: 42px;
+    color: #E15F52;
+    font-family: "Barlow Condensed", serif;
+    font-weight: 700;
+}
+.normal-text {
+    font-size: 18px;
+    color: #474747;
+    font-weight: 400;
+    padding: 5px;
+}
+.buttons {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    row-gap: 5px;
+}
+.linked-text {
+    font-size: 22px;
+    color: #FCDE9E;
+    font-family: "Barlow Condensed", serif;
+    font-weight: 400;
+    background-color: #E15F52;
+    padding: 7px;
+    width: 35%;
+    margin: auto;
+}
+a:link {
+    color: #FCDE9E;
+    font-weight:700;
+}
+]
