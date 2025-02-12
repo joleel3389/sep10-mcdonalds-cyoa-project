@@ -34,7 +34,7 @@ body {
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
-    justify-content: center;
+    justify-content: space-evenly;
     row-gap: 5px;
     gap: 2px;
 }
