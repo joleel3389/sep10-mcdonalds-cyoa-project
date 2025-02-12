@@ -33,7 +33,6 @@ body {
 .buttons {
     display: flex;
     flex-direction: row;
-    flex-wrap: nowrap;
     justify-content: space-evenly;
     row-gap: 0px;
     gap: 0px;
