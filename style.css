@@ -70,5 +70,6 @@ a:active{
     color: #8C8C8C;
     font-weight:700;
     margin: auto;
-    padding: 5px;
+    padding: 10px;
+    font-size: 25px;
 }
