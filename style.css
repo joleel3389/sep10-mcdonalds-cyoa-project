@@ -35,9 +35,10 @@ body {
     flex-direction: row;
     flex-wrap: nowrap;
     justify-content: space-evenly;
-    row-gap: 5px;
-    gap: 2px;
-    width: 50%;
+    row-gap: 0px;
+    gap: 0px;
+    margin: auto;
+    width: 80%;
 }
 .linked-text {
     font-size: 22px;
