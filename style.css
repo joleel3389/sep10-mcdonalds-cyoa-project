@@ -54,3 +54,15 @@ a:link {
     color: #FCDE9E;
     font-weight:700;
 }
+a:hover{
+    color: #FCDE9E;
+    font-weight:700;
+}
+a:visited{
+    color: #FCDE9E;
+    font-weight:700;
+}
+a:active{
+    color: #FCDE9E;
+    font-weight:700;
+}
